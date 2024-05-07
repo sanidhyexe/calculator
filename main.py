@@ -4,7 +4,7 @@ print()
 print("--------------------------Welcome to Calculator app------------------------------")
 print()
 
-# This is the main function that will call the calculate function
+# This is the main function that will call the calculate function.
 def main():
     calculate()
 
